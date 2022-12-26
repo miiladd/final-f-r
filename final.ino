@@ -1,9 +1,7 @@
-// This uses Serial Monitor to display Range Finder distance readings
- 
-// Include NewPing Library
+
+
+
 #include "NewPing.h"
- 
-// Hook up HC-SR04 with Trig to Arduino Pin 9, Echo to Arduino pin 10
 #define TRIGGER_PIN 3
 #define ECHO_PIN 5
  
